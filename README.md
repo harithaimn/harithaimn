@@ -22,3 +22,9 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   
 <!-- ## [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=safwanshamsir99&theme=chartreuse-dark)](https://git.io/streak-stats) -->
+
+## **☕ Support Me**
+
+<a href="https://www.buymeacoffee.com/harithaimnn" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+</a>
