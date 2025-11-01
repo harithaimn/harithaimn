@@ -4,7 +4,7 @@
 - 👨‍💻 ML, NLP, RAG Model Builder | ETL and API Deployment <br>
 - ⚡ I'm interested in Machine Learning, NLP, Deep Learning, Data Science, Data Engineering, Data Analyst and Artificial Intelligence (AI) Development. <br>
 - 📖 I'm currently expanding my horizon of skills by self-learn everyday. <br>
-- 🏗️ All of my projects are available at [here!](https://github.com/safwanshamsir99?tab=repositories)
+<!-- - 🏗️ All of my projects are available at [here!](https://github.com/safwanshamsir99?tab=repositories) -->
 
 ## Featured Projects
 
