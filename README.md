@@ -1,8 +1,8 @@
 # 🌟 Harith Aiman <br>
 
-👋 Hi, I'm Harith Aiman, a Data Scientist. 🎖 <br><br>
-👨‍💻 I Build full-stack & end-to-end ML, NLP, and RAG Models, as well as ETL and API Deployment <br><br>
-⚡ My main focus is in Machine Learning, NLP, Computer Vision, Data Science, Data Engineering, Data Analyst and Artificial Intelligence (AI) Development. <br><br>
+👋 Hi, I'm Harith Aiman, a Data Scientist & ML Engineer 🎖 <br><br>
+👨‍💻 I build Full-Stack & End-to-End ML, NLP, and RAG Models, as well as ETL Pipeline and API Deployment. <br><br>
+⚡ My main focus is in Machine Learning, NLP, Computer Vision, Data Science, Data Engineering, and Data Analysis. <br><br>
 📖 I'm currently expanding my horizon of skills by self-learn everyday. <br><br>
 <!-- - 🏗️ All of my projects are available at [here!](https://github.com/safwanshamsir99?tab=repositories) -->
 
