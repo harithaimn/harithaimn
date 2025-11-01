@@ -1,6 +1,6 @@
 # 🌟 Harith Aiman <br>
 
-👋 Hi, I'm Harith Aiman, a Data Scientist. 🎖 <br>
+👋 Hi, I'm Harith Aiman, a Data Scientist. 🎖 <br><br>
 👨‍💻 I Build end-to-end ML, NLP, and RAG Model, as well as ETL and API Deployment <br>
 ⚡ My main focus is in Machine Learning, NLP, Computer Vision, Data Science, Data Engineering, Data Analyst and Artificial Intelligence (AI) Development. <br>
 📖 I'm currently expanding my horizon of skills by self-learn everyday. <br>
